@@ -8,6 +8,8 @@ import RevenueChart from "../ui/dashboard/revenue-chart"
 import { lusitana } from "../ui/fonts"
 import { CardSkeleton, LatestInvoicesSkeleton, RevenueChartSkeleton } from "../ui/skeletons"
 import CardWrapper, { Card } from "../ui/dashboard/cards"
+
+
 export default async function Page() {
 
     return (
